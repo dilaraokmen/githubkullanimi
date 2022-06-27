@@ -21,7 +21,7 @@ Yeni bir depo oluşturmak için öncelikle depo adı verilir.Açıklama isteğe 
 
 ![Dosya oluşturma](./resimler/2.png)
 
-## Github'a nasıl dosya yüklenir?
+## Github kullanımı
 ### Dosya yükleme
 
 Konsola aşağıdaki kodlar yazılarak dosya yükleme yapılabilir.
@@ -75,3 +75,12 @@ Daha sonra en altta bulunan 'Delete this project' butyonuna tıklanır.
 Silmek istediğinizden emin misiniz bölümünden bize yazmamızı istediği metni ilgili bölüme yazarız ve kırmızı renkli metni olan butona tklarız ve kimlik doğrulaması için şifremizi girerek projeyi sileriz.
 
 ![Dosya oluşturma](./resimler/9.png)
+
+### Projede yapılan değişiklikleri görme
+Proje dosyalarının sağ üstünde bulunan commits butonuna tıklanarak daha önce yapılan değişiklikler listelenir.
+
+![Dosya oluşturma](./resimler/10.png)
+
+listelenen değişikliklerden herhangi birini seçerek ayrıntıları görebiliriz.
+
+![Dosya oluşturma](./resimler/11.png)
